@@ -1,0 +1,11 @@
+You are welcome to contribute anything you would like for this project.
+
+Basic guidelines:
+
+###
+# <function path:to/function>
+# <brief but fair description>
+# <original author name>
+# <where the function runs from>
+# <entities the function effects>
+###
