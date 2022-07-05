@@ -2,6 +2,7 @@
 
 # setup math objectives
 scoreboard objectives add mp_indiv dummy
+scoreboard objectives add mp_lb dummy
 
 # set placements to min
 scoreboard players set $p1 mp_indiv -2147483648
